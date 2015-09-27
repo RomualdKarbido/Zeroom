@@ -1,7 +1,7 @@
 <footer class="footer footer2">
   <div class="footcont"> 
     
-    <div class="adresblock"> Тел.: +7 (985) 210-55-68&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; E-mail: info@zeroom.org <br>
+    <div class="adresblock"> Тел.: <a href="tel:+7 (985) 210-55-68">+7 (985) 210-55-68</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; E-mail: <a href="mailto:info@zeroom.org">info@zeroom.org</a
       </div>
 
 
