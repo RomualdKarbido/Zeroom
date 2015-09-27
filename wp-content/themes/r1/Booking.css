@@ -1,0 +1,61 @@
+@media screen and (max-height: 800px) {
+
+	
+#blInfo{
+	display:none;
+  }
+
+.redLine1
+	{
+	border:5px solid #F00;
+	}  
+
+.header
+	{
+	border-bottom:2px solid #F00;
+	
+	}
+	
+#step_title
+	{
+	display:none;
+	}	
+
+}
+
+
+.PayKn
+	{
+	display: inline-block;
+	color: white;
+	font-weight: normal;
+	text-decoration: none;
+	user-select: none;
+	padding: .5em 1em;
+	outline: none;
+	border: 2px solid #377136 ;
+	border-radius: 1px;
+	transition: 0.2s;
+	background: #468845  ;
+	
+	position: absolute;
+	top: 20px;
+	right: 0;
+	color: #FFF;
+	font-size: 20px;
+	text-decoration: none;
+	font-weight: normal;
+}
+		
+.PayKn:hover
+	{
+
+	
+	background: #000000  ;
+	
+
+}
+.content
+	{
+	position:relative;	
+	}	

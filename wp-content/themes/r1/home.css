@@ -1,0 +1,122 @@
+.home {
+	font-size: 14px;
+}
+.home h2 {
+	font-size: 40px;
+	margin-bottom: 10px;
+	background: #333;
+	padding: 10px 0;
+	display: block;
+	float: left;
+}
+.HomeImg {
+	position: relative;
+	background: url(/wp-content/themes/r1/images/zavodnoi_apelsin-1110x500.jpg) no-repeat;
+	background-size: auto 100%;
+	background-position: center;
+	margin-bottom: -90px;
+	min-height: 245px;
+	height: 45vh;
+	height: -webkit-calc(100vh - 350px);
+	height: calc(100vh - 350px);
+}
+.HomeText {
+	position: absolute;
+	bottom: 10px;
+	left: 20px;
+}
+.HomeText p, .HomeAdres p {
+	background: #333;
+}
+.Htext1 {
+	font-size: 20px;
+	display: block;
+	float: left;
+	line-height: 1.2;
+}
+.HomeAdres {
+	position: absolute;
+	bottom: 10px;
+	right: 20px;
+	text-align: right;
+}
+
+
+
+
+/*Home разрешения*/
+
+
+@media screen and (min-width: 900px) {
+.adresblock {
+	display: none;
+}
+.footer {
+	height: 40px;
+}
+.footer2 {
+	height: 530px;
+}
+}
+ @media screen and (max-width:600px) {
+.HomeImg {
+	height: -webkit-calc(100vh - 450px);
+	height: calc(100vh - 450px);
+	background-size: cover;
+}
+.home h2 {
+	font-size: 30px;
+	padding: 10px 0;
+}
+.Htext1 {
+	font-size: 16px;
+}
+.HomeAdres {
+	display: none;
+}
+}
+@media screen and (min-width: 600px) and (max-width: 900px) {
+.HomeImg {
+	height: -webkit-calc(100vh - 550px);
+	height: calc(100vh - 550px);
+	background-size: cover;
+	margin-bottom: -50px;
+}
+.home h2 {
+	font-size: 35px;
+	padding: 10px 0;
+}
+.Htext1 {
+	font-size: 18px;
+}
+.HomeAdres {
+	display: none;
+}
+}
+ @media screen and (min-width: 900px) and (max-width: 1706px) {
+.HomeImg {
+	height: -webkit-calc(100vh - 380px);
+	height: calc(100vh - 380px);
+	background-size: cover;
+}
+}
+ @media screen and (min-width: 1706px) {
+.HomeImg {
+	height: -webkit-calc(100vh - 350px);
+	height: calc(100vh - 350px);
+	background-size: cover;
+}
+}
+@media screen and (max-height: 690px) {
+
+	
+	#blInfo{
+ margin: 0 auto;
+  font: 20px /1.2 Arial;
+  margin-bottom: 60px;
+  padding: 20px 40px;
+  border: #F00 3px solid;
+  text-align: center;
+  }
+	
+}
