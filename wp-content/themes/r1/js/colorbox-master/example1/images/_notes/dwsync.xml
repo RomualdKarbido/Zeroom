@@ -5,4 +5,9 @@
 <file name="border.png" server="79.137.213.48" local="130569619520000000" remote="130620740400000000" Dst="1" />
 <file name="loading_background.png" server="79.137.213.48" local="130569619520000000" remote="130620740400000000" Dst="1" />
 <file name="loading.gif" server="79.137.213.48" local="130569619520000000" remote="130620740400000000" Dst="1" />
+<file name="loading_background.png" server="u421626.ftp.masterhost.ru" local="130748586740000000" remote="130748586740000000" Dst="0" />
+<file name="loading.gif" server="u421626.ftp.masterhost.ru" local="130748586740000000" remote="130748586740000000" Dst="0" />
+<file name="border.png" server="u421626.ftp.masterhost.ru" local="130748586740000000" remote="130748586740000000" Dst="0" />
+<file name="controls.png" server="u421626.ftp.masterhost.ru" local="130748586740000000" remote="130748586740000000" Dst="0" />
+<file name="overlay.png" server="u421626.ftp.masterhost.ru" local="130748586740000000" remote="130748586740000000" Dst="0" />
 </dwsync>
